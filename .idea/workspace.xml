@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17da3029-d52b-4452-bbd4-94308e0b3761" name="Default Changelist" comment="DB Scores Added">
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Game-Brick-Breaker/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Game-Brick-Breaker/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Game-Brick-Breaker/sqlite-jdbc-3.34.0/archive/nestedvm-2007-06-30 2.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Game-Brick-Breaker/sqlite-jdbc-3.34.0/demo/AppletDemo 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Game-Brick-Breaker/sqlite-jdbc-3.34.0/demo/applet-demo 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Game-Brick-Breaker/sqlite-jdbc-3.34.0/docker/dockcross-windows-x64 2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Game-Brick-Breaker/sqlite-jdbc-3.34.0/lib/jdbc-api-1.4 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Game-Brick-Breaker/sqlite-jdbc-3.34.0/scripts/travis-deploy 2.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Game-Brick-Breaker/sqlite-jdbc-3.34.0/src/main/resources/sqlite-jdbc 2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gameplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gameplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MapGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MapGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userScores.db" beforeDir="false" afterPath="$PROJECT_DIR$/userScores.db" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tWHyJMGFoH3UviCsPso1DP1sBu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.18066847" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Java-Game-Brick-Breaker" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserScores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UserScores" />
+      <module name="Java-Game-Brick-Breaker" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sqlite-jdbc-3.14.2.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/src/sqlite-jdbc-3.14.2.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.UserScores" />
+        <item itemvalue="JAR Application.sqlite-jdbc-3.14.2.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17da3029-d52b-4452-bbd4-94308e0b3761" name="Default Changelist" comment="" />
+      <created>1622878179014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622878179014</updated>
+      <workItem from="1623184142167" duration="20000" />
+      <workItem from="1623184267197" duration="101000" />
+      <workItem from="1623236425213" duration="2534000" />
+      <workItem from="1623747540033" duration="121000" />
+    </task>
+    <task id="LOCAL-00001" summary="DB Scores Added">
+      <created>1623005432135</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623005432135</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="DB Scores Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="DB Scores Added" />
+  </component>
+</project>
